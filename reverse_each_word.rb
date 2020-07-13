@@ -5,7 +5,6 @@ def reverse_each_word (sentence)
   sentence.collect do |words|
   words.reverse
 end
-sentence.each do |words|
   "#{words.reverse}"
   sentence.join
   end
