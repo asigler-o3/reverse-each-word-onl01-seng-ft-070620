@@ -7,5 +7,5 @@ def reverse_each_word (sentence)
   "#{words.reverse}"
   sentence.join
   end
-  entence
+  sentence
 end
