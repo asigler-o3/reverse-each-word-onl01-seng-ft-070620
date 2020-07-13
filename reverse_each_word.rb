@@ -6,6 +6,5 @@ def reverse_each_word (sentence)
   words.reverse
   sentence.join (" ")
   "#{words.reverse}"
-  sentence.join (" ")
   end
 end
